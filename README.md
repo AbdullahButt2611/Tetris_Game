@@ -50,7 +50,7 @@ Following are some of the new features and learning encountered while creating t
 ### Demo
 <p align="justify">
   The Demo of this working project can be found on <br>
-  <a href="></a>
+  <a href="https://rebrand.ly/TetrisGame_MABCORP">rebrand.ly/TetrisGame_MABCORP</a>
 </p>
 
 
